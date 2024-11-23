@@ -33,8 +33,8 @@
         <java.version>17</java.version>
 
         <!-- SonarQube Properties -->
-        <sonar.projectKey>com.example:bankapp</sonar.projectKey> <!-- Your project key in SonarQube -->
-        <sonar.projectName>Banking Web Application</sonar.projectName> <!-- Project name -->
+        <sonar.projectKey>nodejsmysql</sonar.projectKey> <!-- Your project key in SonarQube -->
+        <sonar.projectName>NodeJS MySQL Project</sonar.projectName> <!-- Project name -->
         <sonar.projectVersion>1.0</sonar.projectVersion> <!-- Version of the project -->
         <sonar.host.url>http://localhost:9000</sonar.host.url> <!-- URL of your SonarQube instance -->
     </properties>
